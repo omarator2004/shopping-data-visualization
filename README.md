@@ -1,5 +1,7 @@
 # Shopping Data Visualization
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pcx-QSrwUYNjpImxwFMlpRe6Icn4nw7y?usp=sharing)
+
 A comprehensive data analysis and visualization project exploring shopping trends and customer behavior patterns.
 
 ## 📊 Dataset
@@ -15,7 +17,7 @@ A comprehensive data analysis and visualization project exploring shopping trend
 ## 🛠️ Technologies Used
 - **Python 3.x**
 - **Libraries**: pandas, matplotlib, seaborn, numpy
-- **Tools**: Jupyter Notebook
+- **Tools**: Jupyter Notebook / Google Colab
 
 ## 📈 Key Visualizations
 1. Scatter plots with regression lines
@@ -26,6 +28,11 @@ A comprehensive data analysis and visualization project exploring shopping trend
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Option 1: Run in Google Colab (Recommended)
+Click the badge above to open the notebook directly in Google Colab - no installation required!
+
+### Option 2: Run Locally
+
+#### Prerequisites
 ```bash
 pip install pandas matplotlib seaborn numpy jupyter
