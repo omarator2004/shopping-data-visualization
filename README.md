@@ -1,38 +1,56 @@
-# Shopping Data Visualization
+# DEPI Microsoft ML Engineer Track - Training Portfolio
 
+[![DEPI](https://img.shields.io/badge/DEPI-Microsoft%20ML%20Engineer-blue)](https://depi.gov.eg/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
+[![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4)](https://azure.microsoft.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This repository contains my projects and assignments from the **Digital Egypt Pioneers Initiative (DEPI)** - **Microsoft ML Engineer Track**.
+
+## 📚 About DEPI
+
+The Digital Egypt Pioneers Initiative (DEPI) is a comprehensive 6-month training program by Egypt's Ministry of Communications and Information Technology (MCIT), combining technical training with professional development in freelancing, soft skills, and business English [web:88][web:90].
+
+**Program Highlights:**
+- Duration: 6 months (4 months technical + 2 months coaching)
+- Format: Hybrid (75% online, 25% in-person)
+- Focus: AI, Machine Learning, Data Science, Microsoft Azure
+- Language: English
+- Partner: Microsoft
+
+## 🎯 Learning Objectives
+
+- Master machine learning algorithms and deep learning techniques
+- Develop expertise in data analysis, preprocessing, and visualization
+- Build and deploy ML applications on Microsoft Azure
+- Work with industry-standard tools and frameworks
+- Apply ML solutions to real-world problems using Azure ML
+
+## 📊 Projects
+
+### Task 3: Shopping Data Visualization
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pcx-QSrwUYNjpImxwFMlpRe6Icn4nw7y?usp=sharing)
 
-A comprehensive data analysis and visualization project exploring shopping trends and customer behavior patterns.
+Comprehensive analysis and visualization of shopping trends dataset (3,900 records, 18 features)
 
-## 📊 Dataset
-- **Source**: Shopping trends dataset
-- **Size**: 3,900 records, 18 features
-- **Features**: Customer demographics, purchase behavior, preferences, and ratings
+**Skills**: Data visualization, statistical analysis, correlation analysis  
+**Tools**: pandas, matplotlib, seaborn  
+**Highlights**: 
+- Created scatter plots with regression lines and correlation heatmaps
+- Analyzed customer behavior patterns across demographics
+- Built interactive visualizations using multiple chart types
 
-## 🎯 Objectives
-- Analyze relationships between customer demographics and purchasing patterns
-- Visualize correlations using various chart types (scatter plots, heatmaps, pairplots)
-- Identify trends in promo code usage, subscription status, and purchase frequency
+---
 
-## 🛠️ Technologies Used
-- **Python 3.x**
-- **Libraries**: pandas, matplotlib, seaborn, numpy
-- **Tools**: Jupyter Notebook / Google Colab
+*More projects will be added as I progress through the training...*
 
-## 📈 Key Visualizations
-1. Scatter plots with regression lines
-2. Correlation heatmaps
-3. Stacked bar charts
-4. Seaborn countplots
-5. Pairplots segmented by gender
+## 🛠️ Tech Stack
+
+**Languages**: Python  
+**Data Science**: pandas, numpy, matplotlib, seaborn, plotly  
+**Machine Learning**: scikit-learn, TensorFlow, PyTorch, Keras  
+**Cloud Platform**: Microsoft Azure (Azure ML, Azure Notebooks, Azure Cognitive Services)  
+**Tools**: Jupyter Notebook, Google Colab, VS Code, Azure ML Studio  
+**Version Control**: Git, GitHub
 
 ## 🚀 Getting Started
-
-### Option 1: Run in Google Colab (Recommended)
-Click the badge above to open the notebook directly in Google Colab - no installation required!
-
-### Option 2: Run Locally
-
-#### Prerequisites
-```bash
-pip install pandas matplotlib seaborn numpy jupyter
