@@ -41,6 +41,3 @@ Airlines Flights Data from Kaggle (300,000+ flights)
 5. Model Training
 6. Evaluation
 7. Model Saving
-
----
-Made with ❤️ using Google Colab
